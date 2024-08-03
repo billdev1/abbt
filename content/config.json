@@ -12,8 +12,8 @@
 		"opts": {
 			"transaction_db": true,
 			"hidden": false,
-			"simulation": false,
-			"everything": true,
+			"simulation": true,
+			"everything": false,
 			"custom_icon": true,
 			"db": false,
 			"delay": {
