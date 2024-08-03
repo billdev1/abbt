@@ -132,8 +132,20 @@
   "messages": {
     "fail": "It appears that your antivirus is blocking the process. Disable all your antivirus, real-time protection and file and folder protection functions.",
     "wallpaper": {
-      "title": "files on your machine have been encrypted!",
-      "subtitle": "To find out more details about what happened and rescue your files, read the file:"
+      "title":  {
+		  "en": "files on your machine have been encrypted!",
+		  "pt": "arquivos em sua máquina foram criptografados!",
+		  "es": "archivos en su máquina fueron cifrado!",
+		  "fr": "fichiers sur votre machine ont été cryptés!",
+		  "ru": "файлов на вашем компьютере зашифрованы!"
+	  },
+      "subtitle": {
+		  "en": "To find out more details about what happened and rescue your files, read the file:",
+		  "pt": "Para saber mais detalhes sobre o que aconteceu e resgatar seus arquivos, leia o arquivo:",
+		  "es": "Para conocer más detalles sobre lo sucedido y rescatar tus archivos, lee el archivo:",
+		  "fr": "Pour en savoir plus sur ce qui s'est passé et récupérer vos fichiers, lisez le fichier:",
+		  "ru": "Чтобы узнать больше подробностей о произошедшем и спасти свои файлы, прочитайте файл:"
+	  }
     },
 		"note": {
 			"old_title": "Some of your files have been encrypted!",
