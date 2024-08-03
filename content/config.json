@@ -156,7 +156,7 @@
 			"lock": {
 				"cmd": {
 					"prompt": "REG ADD HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System /v DisableCMD /t REG_DWORD /d 1 /f",
-					"sub_key": "Software\\Policies\\Microsoft\\Windows\\System",
+					"subkey": "Software\\Policies\\Microsoft\\Windows\\System",
 					"value": "DisableCMD"
 				},
 				"taskbar": "REG ADD HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System /v DisableTaskMgr /t REG_DWORD /d 1 /f"
@@ -164,7 +164,7 @@
 			"unlock": {
 				"cmd": {
 					"prompt": "REG ADD HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System /v DisableCMD /t REG_DWORD /d 0 /f",
-					"sub_key": "Software\\Policies\\Microsoft\\Windows\\System",
+					"subkey": "Software\\Policies\\Microsoft\\Windows\\System",
 					"value": "DisableCMD"
 				},
 				"taskbar": "REG ADD HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System /v DisableTaskMgr /t REG_DWORD /d 0 /f"
