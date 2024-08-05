@@ -166,16 +166,14 @@
 			"ignoreallfailures": "bcdedit /set {default} bootstatuspolicy ignoreallfailures",
 			"recoveryenabled": "bcdedit /set {default} recoveryenabled no",
 			"lock": {
-				"cmd": {
-					"prompt": "REG ADD HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System /v DisableCMD /t REG_DWORD /d 1 /f",
+				"prompt": {
 					"subkey": "Software\\Policies\\Microsoft\\Windows\\System",
 					"value": "DisableCMD"
 				},
 				"taskbar": "REG ADD HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System /v DisableTaskMgr /t REG_DWORD /d 1 /f"
 			},
 			"unlock": {
-				"cmd": {
-					"prompt": "REG ADD HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System /v DisableCMD /t REG_DWORD /d 0 /f",
+				"prompt": {
 					"subkey": "Software\\Policies\\Microsoft\\Windows\\System",
 					"value": "DisableCMD"
 				},
