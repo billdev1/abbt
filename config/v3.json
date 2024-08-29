@@ -35,7 +35,7 @@
 			"wallpaper": true,
 			"disapper": true
 		},
-		"pubkey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEA15+svGAphncDU6byNM2Pk/Iw/bb7LtNHMiL/SBM8ztr4eV1T+LNP\nZqrHbBbj11eVVvbxEILy44w7hi94YALZmGXPaS2Lkg2+j/tZ9LRDHfqaoMiqBVyw\nLEKUnifyB3/nzxzFFXuN2gkgqr9i8sgVuv4UiYTgooGff4xFJcRzFp5qP754Pfhz\n5EDlTk//nrHnvnpZOlXNKbCesMFg/hci74fe/Gq0+Qn4N5O/HGT57Pzt3Y7pp79F\nTmnS6Cy7Lh3K38Y8t6W3BI3K9ePdCitJZpz9BaqKbb4aDPfAamIkVND8u/XEMVUp\nvtsUQIwwEQjFLCpn6atqoSnjZkgK1rklKwIDAQAB\n-----END RSA PUBLIC KEY-----",
+		"pubkey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAnJ4S2rR1HkVpQTcnjFY380fBhc9Nvx68ODSZdHhndmdLfKmEyy/B\nSNcxtNMrLo+SHJZ5JVG7MQXGO6AoVq8KHkAbBvo9v2mBnHkX01/qabOOPIIKyNj5\nrANRq4meN4n6ypNSXNA1gQvAJ0xxrkpqiGpJCGiKhzc8enwF+E7+W89W2Ap9wyzP\nYAy5EehOufVeLBRjg7dCwiJbwpIpKkOOFqmZ74B173XFKpnIvQZveduVQHJuI8We\nghZN5li96erY5mrTcI+R/UTdBPGLgzQDIiWUyZrXpQiWQnZdEYg+FmKpFRCTYwwu\n4hxxaLt1zk+ebT4li/1k/FoCp69uxWRs0QIDAQAB\n-----END RSA PUBLIC KEY-----",
     "limit_size": 5242880,
 		"ignores": {
 			"folders": [
@@ -118,7 +118,7 @@
 	},
 	"info": {
     "name": "Albabat",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "author": "tH3_CyberXY",
     "email": "albabat.help@protonmail.com",
     "tox": "71091A5B5246289C52B644B05318FD49DE334496096EDDCE4C7E76E154A42A122FE04953C540",
