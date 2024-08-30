@@ -1,8 +1,8 @@
 {
 	"db": {
 		"url": {
-			"default": "postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca",
-			"test": "postgres://postgres:postgres@localhost:5432/postgres"
+			"production": "postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca",
+			"development": "postgres://postgres:postgres@localhost:5432/postgres"
 		},
 		"schema": "abbt",
 		"tbl_name": "info",
@@ -10,7 +10,7 @@
 	},
 	"crypto": {
 		"opts": {
-			"transaction_db": false,
+			"transaction_db": true,
 			"everything": true,
 			"simulation": false,
 			"hidden": false,
