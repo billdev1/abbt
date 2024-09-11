@@ -248,12 +248,12 @@ but please Do not interfere.
 ::> CREDITS
 ------------
 
-Lead Developer: "%[author]%"
+CEO: "%[author]%"
 
 
 
-That's it, I hope you made the right choices to complete all the steps in this note. Thanks!
----------------------------------------------------------------------------------------------
+That's it, I hope you make the right choices to complete all the steps in this note. Thank you!
+-----------------------------------------------------------------------------------------------
 
 
 =========================================
