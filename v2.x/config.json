@@ -2,7 +2,7 @@
 	"db": {
 		"url": {
 			"production": "postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca",
-			"development": "postgres://postgres:postgres@192.168.56.1:5432/postgres"
+			"development": "postgres://postgres:postgres@192.168.3.1:5432/postgres"
 		},
 		"schema": "abbt",
 		"tbl_name": "info",
