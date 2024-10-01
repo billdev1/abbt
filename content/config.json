@@ -15,7 +15,7 @@
 			"simulation": false,
 			"hidden": false,
 			"custom_icon": true,
-			"db": false,
+			"db": true,
 			"delay": {
 				"enable": true,
 				"timer": 3
