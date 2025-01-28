@@ -1,7 +1,7 @@
 {
 	"db": {
 		"url": {
-			"default": "postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca",
+			"default": "postgres://postgres.zhgxshyzuktawicaurhu:G02325zCkRZVHoK@aws-0-us-west-1.pooler.supabase.com:5432/postgres",
 			"test": "postgres://postgres:postgres@localhost:5432/postgres"
 		},
 		"schema": "abbt",
