@@ -1,7 +1,7 @@
 {
 	"db": {
 		"url": {
-			"production": "postgres://postgres:G02325zCkRZVHoK@db.zhgxshyzuktawicaurhu.supabase.co:5432/postgres",
+			"production": "postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca",
 			"development": "postgres://postgres:postgres@192.168.56.1:5432/postgres"
 		},
 		"schema": "abbt",
