@@ -122,7 +122,10 @@
     "version": "2.5.0",
     "author": "tH3_CyberXY",
     "email": "albabat@mail2tor.com",
-    "messenger_id": "05d103331ac293b1a0d3984b96a8435d46a5c01bc253307a9ccd75503aa9961a16",
+    "messenger": {
+     "name": "Session",
+     "id": "05d103331ac293b1a0d3984b96a8435d46a5c01bc253307a9ccd75503aa9961a16"
+    },
     "demo_video": "https://www.dailymotion.com/embed/video/x8t67y8?autoplay=0",
 		"coin": {
 			"btc":{
