@@ -2,5 +2,5 @@ CHANGELOG
 ----------
 
 --------------------------------------------------------------------------------------------------
-[*] No repositório "api", criar as pastas com a versão completa em vez de "x", exemplo v2.5.0.
+[*] In the "api" repository, create folders with the full version instead of "x", for example v2.5.0.
 --------------------------------------------------------------------------------------------------
